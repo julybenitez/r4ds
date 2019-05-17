@@ -362,7 +362,6 @@ Pandoc puede generar automaticamente citas y bibliografía en varios estilos. Pa
 ```yaml
 bibliography: rmarkdown.bib
 ```
-
 Puedes usar muchos formatos comunes de biliografía incluyendo BibLaTeX, BibTeX, endnote, medline.
 
 Para crear una cita dentro de tu archivo .Rmd, usa una clave compuesta de ‘@’ + el identificador de la cita del archivo de la bibliografía. Despues ubica esta cita entre corchetes. Aquí hay algunos ejemplos:
